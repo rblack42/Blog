@@ -16,6 +16,7 @@ DEFAULT_LANG = u'en'
 DEFAULT_CATEGORY = 'Life'
 
 THEME = 'themes/pelican-bootstrap3'
+BANNER = 'images/collingsF4.png'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -34,6 +35,9 @@ SOCIAL = (('LinkedIn', 'https://www.linkedin.com/profile/view?id=103423831&trk=s
 DEFAULT_PAGINATION = 10
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_PAGES_ON_MENU = True
+
+YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
+MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
