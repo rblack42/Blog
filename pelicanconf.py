@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Roie R. Black'
 SITENAME = u"Random Ramblings"
 BANNER_SUBTITLE = u"from Roie Black's Life"
-SITEURL = ''
+SITEURL = 'http://www.co-pylit.org/blog'
 
 PATH = 'content'
 STATIC_PATHS = ['images']
@@ -29,7 +29,8 @@ LINKS = (('ACC Home Page', 'http://www.austincc.edu/rblack/'),
          ('GitHub', 'https://github.com/rblack42'),)
 
 # Social widget
-SOCIAL = (('LinkedIn', 'https://www.linkedin.com/profile/view?id=103423831&trk=spm_pic'),)
+SOCIAL = (('LinkedIn', 'https://www.linkedin.com/profile/view?id=103423831&trk=spm_pic'),
+        ('Google+', 'https://www.google.com/+RoieBlack'),)
 
 DEFAULT_PAGINATION = 10
 DISPLAY_CATEGORIES_ON_MENU = True
@@ -39,7 +40,7 @@ YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = False
 
 # Exterior Services ###########################################################
 DISQUS_SITENAME = 'roiesblog'
@@ -54,5 +55,12 @@ BOOTSTRAP_THEME = 'cosmo'
 SHOW_ARTICLE_CATEGORY = False
 FAVICON = 'images/favicon.png'
 BANNER = 'images/collingsF4.png'
-TAG_CLOUD_MAX_ITEMS = 8
+
+TAG_CLOUD_STEPS = 4
+TAG_CLOUD_MAX_ITEMS = 20
+TAGS_URL = "/blog/tag-{slug}.html"
+TAGS_SAVE_A = "tags.html"
+TAG_SAVE_AS = "tag-{slug}.html"
+TAG_URL = "/blog/tag-{slug}.html"
+
 

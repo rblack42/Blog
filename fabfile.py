@@ -53,21 +53,11 @@ def reserve():
 def preview():
     local('pelican -s publishconf.py')
 
-def cf_upload():
-    rebuild()
-    local('cd {deploy_path} && '
-          'swift -v -A https://auth.api.rackspacecloud.com/v1.0 '
-          '-U {cloudfiles_username} '
-          '-K {cloudfiles_api_key} '
-          'upload -c {cloudfiles_container} .'.format(**env))
+def sync():
+    env.hosts = ['www.co-pylit.org']
+    localdir = 'output/'
+    remotedir = 'www/blog'
+    local('rsync -arvuz %s %s@%s:%s' %(localdir,env.user,env.hosts[0],remotedir))
+    with cd('www/blog/images'):
+        local('chmod 755 *')
 
-@hosts(production)
-def publish():
-    local('pelican -s publishconf.py')
-    project.rsync_project(
-        remote_dir=dest_path,
-        exclude=".DS_Store",
-        local_dir=DEPLOY_PATH.rstrip('/') + '/',
-        delete=True,
-        extra_opts='-c',
-    )
