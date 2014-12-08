@@ -11,7 +11,10 @@ Hanger Talk
     parts I use. So, I went looking at several sites for examples of the way
     they laid things out, and settled on this one for a while. Plus it now
     shows my favorite airplane, and the one I probably owe my career to. So
-    here it is!
+    here it is! As a bonus, I have my commenting system back up, so you can
+    comment on any post if you like it, or hate it, or just want me to say
+    something else (or nothing else!) HA! Good luck on that last idea.
+
 
 Pilots love to sit around and tell tall tales of their flying experiences. I
 guess I am no exception, so here are a few of my flying tales.
@@ -38,6 +41,11 @@ Doing three things at Once
 
 Basically, you still need to focus on similar things, but the big new one is
 keeping the craft straight and level. For a beginner, that can be a challenge. 
+
+First, you have to get used to all the instruments that tell you which way you are flying, and ow the airplane is oriented relative to the ground, even in the middle of a cloud or at night. The front panel is a bit more complicated than the average car:
+
+..  image:: images/FlightPanel.png
+    :alt: Flight Panel
 
 You have three different kinds of controls to worry about. For the kind of
 plane I started learning how to fly, I sat in the pilot's seat with a wheel in
@@ -83,13 +91,23 @@ center of a circular path you made the plane fly as you turned the craft 180
 degrees in whichever direction you started turning. When you reached the road
 again, you switched your focus to a spot on the other side of the airplane and
 did the same thing, only this time turning in the opposite direction. The
-result is that you flew a big "S" (quite giggling) turn in the sky. Usually you
+result is that you flew a big "S" (quit giggling) turn in the sky. Usually you
 kept doing that until the road ran out.
+
+..  image:: images/STurns.png
+    :alt: S Turn Pattern
 
 This gave you a lot of practice using all the controls to fly a smooth
 "coordinated" path through the sky. You also had to keep your eyes sharp to
 make sure you did not run into some other silly goof doing the same thing in
 the opposite direction. 
+
+FLying well with all three sets of controls is difficult to do right, and you
+have to keep practicing it to keep good at it. I learned how much I forgot
+after not flying for quite a while when I checked out in a Grob Sailplane
+(glider) a few years back. See `I Hate String
+<{filename}/2010/10/31/String.rst>`_
+
 
 Touch and Go
 ************
@@ -138,7 +156,7 @@ cross-wind:
 
 ..  image::    images/SideSlipLanding.png
     :width: 500
-    :alt: Croaa Wind Landing.
+    :alt: Cross Wind Landing.
 
 He is not flying across the runway, he is moving straight down that centerline
 on the pavement. The trick is to get one wheel on the ground, then straighten
@@ -148,6 +166,40 @@ runway. That is harder to do than it is to explain.
 I got pretty good at this, and used to go up on windy days, just to practice
 this kind of flying!
 
+Watching Landings
+=================
+
+The Base Aero Club at Wright-Patterson AFB was housed in an old alert hanger,
+set up during the cold war so they could launch fighters quickly if needed. The
+cool thing about that place was a nice observation bay that had a great view of
+the approach to the end of the runway. As all pilots are prone to do, we used
+to sit there and grade the landings each pilot made at the field, and there
+were a lot of them. 
+
+We had small ones:
+
+..  image:: images/T38Landing.png
+    :alt: T38 Landing
+
+We had big ones
+
+..  image:: images/C5Landing.png
+    :alt: C5 Landing
+
+We had bombers landing:
+
+..  image:: images/B52Landing.png 
+    :alt: B52 Landing
+
+But by far the most fun was watching a Harrier land. These things do not really
+land. They make the approach to the runway, then screech to a halt about 20
+feet in the air, then hover like a helicopter for a while making a TON of
+noise. Then they motor along above the ground to where they want to park the
+thing, and gently touch down. It was fun to watch:
+
+..  image:: images/HarrierLanding.png
+    :alt: Harrier Landing
+
 720 Degree Turns
 ****************
 
@@ -155,6 +207,9 @@ Another fun maneuver was flying a tight level circle in the sky, usually with
 the wings up at a 60 degree angle from level (pretty steep). This makes you
 feel about twice as heavy as normal, since it is a "2-G" maneuver. You only fly
 this way when you need to turn in a hurry!
+
+..  image:: images/SteepTurn.png
+    :alt: Steep Turns
 
 Flying this involves paying attention to a lot of things to keep the altitude
 constant, and the "bank angle" (the tilt of the wings) constant as well. What

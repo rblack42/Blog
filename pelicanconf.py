@@ -58,9 +58,9 @@ BANNER = 'images/collingsF4.png'
 
 TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 20
-TAGS_URL = "/blog/tag-{slug}.html"
+TAGS_URL = "tag-{slug}.html"
 TAGS_SAVE_A = "tags.html"
 TAG_SAVE_AS = "tag-{slug}.html"
-TAG_URL = "/blog/tag-{slug}.html"
+TAG_URL = "tag-{slug}.html"
 
 
