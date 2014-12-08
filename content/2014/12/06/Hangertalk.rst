@@ -2,7 +2,7 @@ Hanger Talk
 ###########
 
 :date: 2014/12/06
-:tags:  Aviation
+:tags:  Aviation, Flying
 
 ..  note::
 
@@ -17,7 +17,7 @@ Hanger Talk
 
 
 Pilots love to sit around and tell tall tales of their flying experiences. I
-guess I am no exception, so here are a few of my flying tales.
+guess I am no exception, so here are a few more of my flying tales.
 
 Solo
 ****
@@ -31,8 +31,8 @@ Learning the Controls
 Airplanes are not like cars. Basically all you need to do in a car is keep the
 critter between the lines painted on the road, obey the signs, and occasionally
 figure out how to make it go forward or backward. Simple stuff a 9th grader can
-do in his grandfathers pickup truck while trying to hit all the cow-pies in a
-big field!
+do in his grandfather's pickup truck while trying to hit all the cow-pies in a
+big pasture!
 
 Airplanes are different! Very different.
 
@@ -40,16 +40,27 @@ Doing three things at Once
 ==========================
 
 Basically, you still need to focus on similar things, but the big new one is
-keeping the craft straight and level. For a beginner, that can be a challenge. 
+keeping the craft right-side up, and straight and level. For a beginner, that
+can be a challenge. 
 
-First, you have to get used to all the instruments that tell you which way you are flying, and ow the airplane is oriented relative to the ground, even in the middle of a cloud or at night. The front panel is a bit more complicated than the average car:
+First, you have to get used to all the instruments that tell you which way you
+are flying, and ow the airplane is oriented relative to the ground, even in the
+middle of a cloud or at night. The front panel is a bit more complicated than
+the average car:
 
 ..  image:: images/FlightPanel.png
     :alt: Flight Panel
 
+It is a bit different jumping out of one airplane and into another. All those
+instrumentsmight be in different places in the second one, and you need to lear
+where everything is, because they are all important in some way, and you
+monitor them all as you fly.
+
 You have three different kinds of controls to worry about. For the kind of
-plane I started learning how to fly, I sat in the pilot's seat with a wheel in
-front, just like in a car, and two pedals under my feet, that you could push.
+plane I started learning how to fly, I sat in the pilot's seat with a wheel
+(they called it a yoke, because it was not really the same as in a car) in
+front, and two pedals under my feet, that you could push.
+
 They did this:
 
     * Pitch
@@ -73,9 +84,9 @@ They did this:
         * Push the left rudder pedal, the nose goes to the left
 
 Sounds simple enough, but the trick is making the plane go where you want it to
-go by making movements (usually small) in all three directions at the same
-time. With practice (a lot of practice) you stop thinking about it and it just
-happens. Magic!
+go by making movements (usually small, unless you are doing aerobatics) in all
+three directions at the same time. With practice (a lot of practice) you stop
+thinking about it and it just happens. Magic!
 
 But getting there takes time. My favorite practice was:
 
@@ -83,16 +94,17 @@ Ss Along a Road
 ===============
 
 Practice sessions usually involved flying from Wright-Patterson Air Force Base
-over Xenia, Ohio (site of a horrible tornado event in 1974), then down into the
+over Xenia, Ohio (site of a horrible tornado in 1974), then down into the
 farmlands south of that town. We would hunt up a long straight road and fly
 straight toward the road. As you passed over the road, you picked out a
 telephone pole, or some other stationary object, and used that point as the
 center of a circular path you made the plane fly as you turned the craft 180
-degrees in whichever direction you started turning. When you reached the road
-again, you switched your focus to a spot on the other side of the airplane and
-did the same thing, only this time turning in the opposite direction. The
-result is that you flew a big "S" (quit giggling) turn in the sky. Usually you
-kept doing that until the road ran out.
+degrees in whichever direction you started turning. The trick was to make the
+tip of the wing look like it was attached to the object you were using as a
+reference point. When you reached the road again, you switched your focus to a
+spot on the other side of the airplane and did the same thing, only this time
+turning in the opposite direction. The result is that you flew a big "S" (quit
+giggling) turn in the sky. Usually you kept doing that until the road ran out.
 
 ..  image:: images/STurns.png
     :alt: S Turn Pattern
@@ -102,7 +114,7 @@ This gave you a lot of practice using all the controls to fly a smooth
 make sure you did not run into some other silly goof doing the same thing in
 the opposite direction. 
 
-FLying well with all three sets of controls is difficult to do right, and you
+Flying well with all three sets of controls is difficult to do right, and you
 have to keep practicing it to keep good at it. I learned how much I forgot
 after not flying for quite a while when I checked out in a Grob Sailplane
 (glider) a few years back. See `I Hate String
@@ -136,6 +148,10 @@ As you get just above the ground, you pull the nose up slightly, cut the power,
 and let gravity bring you back to Mother Earth, hopefully with only the
 slightest bump as the wheels touch down.
 
+When flying "touch and goes", as soon as the plane is fully under control on
+the ground, you push the throttle in and take right back off and do it all over
+again. It is this kind of practice that makes you good.
+
 Any time I fly commercially, I always pay attention to how slight the bump is
 when that huge airliner hits the runway. If the pilot does it well, I make a
 point to congratulate him/her on a "nice landing". Trust me, they appreciate
@@ -159,9 +175,11 @@ cross-wind:
     :alt: Cross Wind Landing.
 
 He is not flying across the runway, he is moving straight down that centerline
-on the pavement. The trick is to get one wheel on the ground, then straighten
-the craft out as you put the other two down so you roll straight down the
-runway. That is harder to do than it is to explain. 
+on the pavement. The trick is to fly with one wing low, while trying to make
+the ground path line up with the runway. At the last possible moment, you use
+the rudders to straighten the plane out as you let one wheel touch the ground,
+then work harder to straighten the craft out as you put the other two down so
+you roll straight down the runway. That is harder to do than it is to explain. 
 
 I got pretty good at this, and used to go up on windy days, just to practice
 this kind of flying!
@@ -176,20 +194,31 @@ the approach to the end of the runway. As all pilots are prone to do, we used
 to sit there and grade the landings each pilot made at the field, and there
 were a lot of them. 
 
-We had small ones:
+We had small ones
+-----------------
 
 ..  image:: images/T38Landing.png
     :alt: T38 Landing
 
+This is a T-38, used to train fighter pilots. NASA uses a bunch of them to
+train astronauts as well.
+
 We had big ones
+---------------
 
 ..  image:: images/C5Landing.png
     :alt: C5 Landing
 
-We had bombers landing:
+This is a C5 transport, the biggest airplane in the USAF fleet!
+
+We had bombers
+--------------
 
 ..  image:: images/B52Landing.png 
     :alt: B52 Landing
+
+We had weird ones
+-----------------
 
 But by far the most fun was watching a Harrier land. These things do not really
 land. They make the approach to the runway, then screech to a halt about 20
@@ -261,13 +290,13 @@ Going on long drives is fun, but you only go where the roads let you go. In
 flying you go where you want, within limits.
 
 Since there are no roads up there, pilots have to make sure they do not run
-into each other. The thought of everyone owning a flying car and all jumping
+into each other. (The thought of everyone owning a flying car and all jumping
 into the sky and heading off whichever way they want strikes fear in my heart!)
 
 One way to fly cross-country is to keep a pilot's map in your lap and pick out
 landmarks as you fly. These can be radio towers, towns, even water tanks you
 can read if you fly low enough. Hopefully, you can find the airport you want to
-land at doing this. But his is not the best way to fly cross country!
+land at doing this. But this is not the best way to fly cross country!
 
 There is a huge system of radio transmitters around the world, all sending out
 signals that help pilots figure out what direction to fly to reach one
@@ -289,16 +318,22 @@ If you want to fly cross country, there are rules you have to follow. For
 example, if you were flying east to west, there were certain altitudes you are
 allowed to fly at. Those flying west to east have to fly at different altitudes
 so planes do not run into each other. Additionally, there are standard routes
-you could fly that go from one VOR transmitter to another, and with all of
-this figured out, you set up a "flight plan" that you register with
-the FAA to let then know where you are going to fly, and when to expect you at
-your destination. If something happens, they could come look for you!
-
-Unlike in driving, if you have problems, you cannot just pull over and call
-AAA. You have to find a place to land and do so without killing yourself.
+you could fly that go from one VOR transmitter to another, and with all of this
+figured out, you set up a "flight plan" that you register with the FAA to let
+then know where you are going to fly, and when to expect you at your
+destination. If something happens, they could come look for you! If you pay
+attention while flying in an airliner, you can tell if you are passing over a
+VOR by the unexplained turning the airplane does as it lines up along the path
+to the next VOR station. Of course, all of this is getting pretty old-fashioned
+these days. GPS can point you right towards your destination, or create a path
+for you to fly and tell you if you are drifting off of that path at every
+moment in time. 
 
 Emergency Landings
 ******************
+
+Unlike in driving, if you have problems, you cannot just pull over and call
+AAA. You have to find a place to land and do so without killing yourself.
 
 When I took the check ride with an FAA examiner who was going to issue my
 Commercial Pilot's License that day, we were flying along and he reached over
@@ -311,7 +346,7 @@ power back in and said "That was pretty nice. I had an emergency last week, and
 put the plane down exactly in that field!" Boy was that a nice plus on that
 test!
 
-FLying is in My Blood
+Flying is in My Blood
 *********************
 
 I cannot fly now, at least the way I want to, all because of my battle with
