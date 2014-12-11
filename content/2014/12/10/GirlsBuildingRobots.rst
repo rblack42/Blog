@@ -13,13 +13,13 @@ popular way to keep things interesting enough to attract todays' kids.
 
 Here is one of my favorite robots, the Mars Rover:
 
-..  image:: GirlsMarsRiver.jpg
+..  image:: images/GirlsMarsRiver.jpg
     :width: 500
     :alt: Girls Mars Rover
 
 Wait! That isn't the Mars Rover, this is:
 
-..  image:: MarsRover.jpg
+..  image:: images/MarsRover.jpg
     :width: 500
     :alt: NASA Mars Rover
 
