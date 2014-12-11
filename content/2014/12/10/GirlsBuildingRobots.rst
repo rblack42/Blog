@@ -7,13 +7,13 @@ Girls Building Robots
 ..  |ACC|           replace:: Austin Community College
 ..  _ACC:           http://www.austincc.edu/
 
-I use robotics as a "hook" to get my students interested in my course in
-Computer Architecture and Machine Language" at |ACC|. It appears to be a
-popular way to keep things interesting enough to attract todays' kids.
+I use robotics as a "hook" to get my students interested in my "Computer
+Architecture and Machine Language" course at |ACC|. It appears to be a popular
+way to keep things interesting enough to attract todays' kids.
 
 Here is one of my favorite robots, the Mars Rover:
 
-..  image:: images/GirlsMarsRiver.jpg
+..  image:: images/GirlsMarsRover.jpg
     :width: 500
     :alt: Girls Mars Rover
 
@@ -23,8 +23,9 @@ Wait! That isn't the Mars Rover, this is:
     :width: 500
     :alt: NASA Mars Rover
 
-It is still sitting there on Mars! That first one was built by two pre-teen
-girls (with a bit of help from dad!)!
+It is still sitting there on Mars! That first one was built by two girls:
+Camille and Genevive Beatty (14 and 12 respectively), with a
+bit of help from dad, Robert Beatty!
 
 Get your Kids Involved
 **********************
