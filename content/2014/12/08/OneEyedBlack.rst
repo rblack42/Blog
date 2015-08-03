@@ -17,7 +17,8 @@ I replied:
 
 "Hi, my name is One-eyed Black!"
 
-We both had a chuckle, and she asked if it was going to be OK. I had to tell
+We both had a chuckle, and she asked if my eye (not visible because of the
+patch I have over my glasses on that side) was going to be OK. I had to tell
 her that cancer make it go bye-bye, and she wished me well.
 
 So, now I have a new nickname. Great! Always nice to have a few available when
@@ -38,7 +39,7 @@ The maze does not seem as obvious, except when I first turn off the lights in a
 room at night. I cannot move for a few seconds, until I find some source of
 light, then I get my bearings and can move around. But very slowly. I am doing
 things I am sure blind folks have to do. I use my hands and arms as a barrier
-to make sure I do not walk into a column, or the wall. It is now fun, but I am
+to make sure I do not walk into a column, or the wall. It is no fun, but I am
 learning how to get around in the dark. This is only a problem when it is very
 dark. I do not have any problems driving with the headlights on.
 
@@ -46,6 +47,20 @@ The doctors are still thinking that my brain is trying to make sense of the
 signals coming from my old eye nerves, which are still there, just not attached
 to anything. I have to draw a picture of what I see, maybe I can do that over
 the break between semesters.
+
+..  note::
+
+    A few days after I posted this, one of my web news feeds published images
+    of the nerve endings they found in mice under a microscope (how they did
+    this is something I do not really want to know!) They colored the images to
+    show nerve bundles and the unexpected fibres in each of those bundles. What
+    I see is a black background with green lines, and the clumps and lines are
+    more rectangular than this, but the image is close enough to give you the
+    basic idea of what I see when it is totally dark!
+
+..  image:: images/NerveEndings.png
+    :align: center
+    :alt: Nerve Ending Image
 
 Depth Perception
 ================

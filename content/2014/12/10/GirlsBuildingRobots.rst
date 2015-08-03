@@ -40,7 +40,7 @@ Technology, Engineering and Math (STEM). The girls do most of the machining and
 wiring, dad helps with the programming. Way cool!
 
 Here is the team that built this thing, which now resides in the `New York Hall
-of Science <http://nymetroparents.com/listing/New-York-Hall-of-Science>`_!
+of Science <http://nysci.org/>`_!
 
 ..  image:: images/RoverBuilders.jpg
     :width: 500

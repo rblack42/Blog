@@ -147,9 +147,9 @@ cross country, rarely on paved roads. You ride up mountains, across streams or
 rivers, whatever, and do it on a schedule that worked out to 24 mph. If the
 bike breaks, you have to fix it on the trail, then make up the lost time! Get
 ahead of schedule you lose points, get behind, you lose points. The rider who
-gets to the finish line, 100 miles away from the start, wins the event. For quite
-a while, just getting to the finish line was challenge enough! I got better at
-it over time.
+gets to the finish line, 100 miles away from the start,with the fewest points
+wins the event. For quite a while, just getting to the finish line was
+challenge enough! I got better at it over time.
 
 Eventually, my friend from my high school days, Jim Coffin, who raced sports
 cars, noticed I was having just as much fun as he was at 1/10 the cost, so he

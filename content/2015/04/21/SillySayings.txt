@@ -1,0 +1,320 @@
+Silly Sayings
+#############
+
+:Date: 2015-04-21
+:Category: Life
+:tags: Stories
+
+OK, I admit it, I am something of a sarcastic kind of person. I like to use
+over-the-top humor sometimes to break down barriers. Sometimes the sarcasm is
+not well received, it all depends on the situation. I am sorry, but being
+serious all the time can keep folks from making progress. I am not really
+criticizing them when I say some of these, I am trying to get them unstuck!
+
+My Favorites
+************
+
+Here are some of the lines I have been known to use, in no particular order.
+
+    * Don't just do something, sit there!
+
+This line is usually thrown at someone who is just sitting there, deep in
+thought, perhaps. I have been known to throw it out in hopes of getting that
+someone to open up about what has them stuck at the moment. Perhaps together,
+we can get them moving forward again.
+
+    * If at first you don't succeed, forget it, it is not worth the effort!
+
+I am not a fan of this saying, but it seems to be the way many people operate.
+Things just do not always come easily in this world, you have to work at it.
+But far too often I see evidence that "instant gratification" is what many
+think the world should offer. Not succeeding the first time you try something
+should not defeat you, it should motivate you to defeat that something. Don't
+be a quitter, be a winner!
+
+    * When in doubt, RTFM!
+
+If you do not know what `RTFM` means, it means "read the f****** manual" (you
+fill in your favorite "f" word). 
+
+Many folks treat reading the manual as an admission of defeat. Guess what!
+Someone wrote that manual to help you get over what they thought would be the
+things that stump you when you are learning this new thing. My only problem
+with manuals is that they are often written by developers, who "know
+everything", and have a tough time speaking to someone who "knows nothing" (at
+least as far as this new thing they are trying to comprehend goes!) 
+
+In today's world, when someone gets stuck, I think a better saying is this:
+
+    * You got questions? Google has answers!
+
+Once you learn how to use a good `search engine`, you can often solve
+problems faster by using them. Looking things up in that book by your side can
+take far more time. Of course, you need to be "connected" to do this, but who
+is not, these days? (I do remember my first cruise, from Galveston to Key West.
+We had been out of sight of land for two whole days, and cell phones were out of
+range as well! As we got close to shore, I saw dozens of folks gathering at the
+bow of the ship, all holding their cell phones up to the sky. I suspect they
+were praying to the cell phone gods to give them a signal. It was hilarious!)
+
+Unfortunately, by relying on these search tools, there are some studies that
+suggest that people are not energizing their brains enough to think through
+problems any more. We are back to that "instant gratification" thing again! The
+studies are telling us that failure to exercise our brains will lead to problems
+as we get older. Sorry folks, the problems happen far sooner than that!
+
+The only problem I really have with using search engines all the time is
+trusting those answers. The Internet is littered with facts, which seems to be
+a synonym for opinions these days. You absolutely must consider the source when
+you get answers from anything like Google. 
+
+    * If you do not crash every once in a while, you are not going fast enough!
+
+I love this one. It obviously comes from the racing world. Trust me, I have
+crashed a few times in my life. Some of those crashes came while racing
+motorcycles, none while flying. Thank God for that! 
+
+My crashes have always taught me a thing of two. I learn best by pushing myself
+(see `Pushing The Edge <http://www.co-pylit.org/blog/pushing-the-edge.html>`_).
+You get to a point where you think you know something, then you push yourself
+to learn a little more about it. That act of pushing, teaches you more and
+more. You may discover that you are learning about things you never expected to
+learn. I am constantly exploring new technologies, many of which I never knew
+existed until I pushed on something I was trying to learn, and discovered new
+things about that technology! Pretty Cool!
+
+I once had the privilege of watching a master of pushing the edge. Ever heard
+the name Mario Andretti? He was my favorite race car driver when I was young,
+and fascinated by fast cars. My good friend, James Coffin, had introduced me to
+the world of sports car racing, something I could not afford, and I was
+hooked!. While stationed in Dayton Ohio, I heard that Mario was going to race
+at the Mid-Ohio Raceway. I drove there just to see him race. I got to witness his
+first race in an “open wheel” race car. It was amazing.
+
+The car he was driving could go close to 200 miles per hour, and Mid-Ohio had a
+two mile long straight stretch, followed by a 180 degree hairpin curve. Drivers
+had to brake hard to slow down enough to make that turn. I walked along that
+straight section until I was at the place where most drivers came off of the
+throttle and went for their brakes to make that turn. You could hear the
+change. Full power make a neat sound, then the sound disappeared as they hit
+the brakes. It was fun to watch that. We graded each driver by exactly where
+they came off of the throttle!
+
+Then came Mario!
+
+He knew how to push the edge. Shoot, he was the master of that edge. He knew
+exactly what he could do, and what his car could do. The first time he came
+down that straight, he sailed past where we were standing, and we watched in
+awe as he finally hit the brakes and made it through the hairpin turn. He was
+so much better at this than any other driver in that race, it was just amazing.
+
+Mario went on to become the World Champion in Formula One, probably the most
+important racing circuit in the world. (Austin built the first real Formula One
+Track in the United States, and every year we see the world’s best drivers here
+in town!)
+
+    * The best way to get something done fast is to slow down!
+
+Now this is just silly. I just talked about pushing yourself to go fast, now I
+am advocating slowing down. As I think about that, it makes sense. There is
+actually one speed you can go that is just right. (Goldilocks comes to mind
+about now!)
+
+My students live complex lives. I guess we all do. It is a life full of things
+that need to get done, like my lab assignments. The problem is one of balance.
+You have to decide what gets done first, and often my assignments get put off.
+Then comes a deadline, and you need to get things done in a hurry.
+
+So, the student sits down and engages in something called "blasting code". That
+means they engage in a marathon typing session trying to pour out a solution to
+a programming problem in one furious session. 
+
+It just does not work! 
+
+They then spend a huge amount of time trying to find out why that huge mess
+they just created does not work. The solution it to do something called "baby
+steps". Instead of trying so hard, you need to back off and take small steps
+toward a solution. This takes practice, but it works! You take a small step,
+review what you just did by testing your work. Every step should move closer to
+a solution, and you should have some idea what your small step is about to
+accomplish. If that step does not work, you know exactly what you just did and
+can undo it if necessary, Or fix it if you can. Once you are satisfied with
+what you just accomplished, you move on to another baby step. It seems
+counterintuitive, but it works. You end up spending less time overall getting
+your assignment done, and the process if much more enjoyable because you spend
+less time fighting through a mess that is broken and you have no idea where the
+problem lies.
+
+In racing, crashing does not win races, so once you have properly defined that
+"edge", you learn to recognize the edge and go exactly that speed. And you win
+races. Well, you win as long as your tools are as good as they can be as well!
+
+That leads to another statement!
+
+    * Cheap tools lead to cheap work!
+
+I never had much money when growing up. So buying tools was hard. I never could
+afford the tools I wanted, so I bought the cheapest tools I could afford. In
+the end, that was a mistake. Back to my racing days, I could just barely afford
+my motorcycles, and I learned to fix them myself. The tool kit that came with
+the bike was cheap stuff the manufacturer stuffed in a case just to say they
+gave you something. They were junk! In the end, I bought better tools, but
+still could not afford really good tools. I fumbled my way through, but never
+was able to do the work I wanted.
+
+As an example, I raced Kawasaki motorcycles. They were good machines, but not
+the best. I used to practice going fast over rough ground at a local motocross
+track where local racers practiced. I could never keep up with them, no matter
+how hard I tried.
+
+Then a friend, who was a sponsored rider, meaning a motorcycle company thought
+enough of his skills to give him a bike to race, let me ride his machine. It
+was a CZ Motocross machine with an engine exactly the same size as the one on
+my Kawasaki. 
+
+My first lap around that track was so much faster than I ever managed, I almost
+scared myself. The defining example was a triple step jump up a hill in the
+middle of the course. You hit the first step and jumped up toward the next
+step. You did the same thing twice more to get to the top of the hill. At least
+that was how I used to ride over that hill. On the CZ, I approached the hill,
+cracked the throttle to pick up the front wheel and jump up over that first
+step, and was going so fast, I sailed over the next two steps completely and
+was at the top of the hill! Man was that motorcycle powerful! It was a much
+better "tool" for this particular job that the one I owned.
+
+Well, I could not afford that CZ, but I was impressed with it. I did manage to
+overcome my cheap roots and start buying quality tools that worked well, and
+lasted a long time. You pay for quality, but quality pays off in the end! Don't
+sell yourself short by failing to invest in the tools you need to do your jobs
+well!
+
+	* NIH
+
+This one is simple, and it has nothing to do with the National Institute of
+Health. It is a disease many people (and organizations) have. It stands for
+“not invented here”! What this one means is that we have a hard time trusting
+the work of other people, and feel better if we re-create that work ourselves.
+In computer programming, it means people “reinvent the wheel” time after time,
+even though the wheel is there, ready for you to use, and you do not have to
+invent it again! Far too many programmers do not understand this!
+
+IBM once did a study of their own software development efforts and found that
+they had written the exact same code so many times it was insane! Part of the
+reason for that was just that the programmers did not know the code already
+existed, and part was because they did not trust that code, and rewrote it
+themselves. 
+
+By setting up a database of code, and training their programmers to get over
+this disease, they were able to drastically cut the cost of software
+development! 
+
+I write a lot of computer programs “over”, but that has nothing to do with the
+NIH disease! Instead, I am working at my profession, teaching! By writing code
+that already exists, I am actually studying `OPC` (`Other People’s Code`)
+trying to learn how they made this program work. My goal is not really to
+“reinvent the wheel”, but to understand that code well enough to teach my
+students how to do the same thing! In the process, I keep expanding my
+knowledge, and I keep current in the best new technologies in software
+development!  I
+
+    * There is no intelligent life below channel 30
+
+Do you watch network TV these days? I do not, at least not on purpose. When I
+look at what goes on there, I am amazed at the junk they push out. The only
+thing "real" about "reality TV" is "real stupid". Sorry! If you like this stuff, good luck with that. Me? I
+simply do not care about all of this. I see no need to sit there watching people I care nothing about
+displaying how idiotic they really are. Well, that is just me, your milage may
+vary! (Wait, that is another saying)
+
+I do spend a lot of time in front of a TV, but I hardly ever just sit there and
+just watch. Instead, I have my laptop fired up and I and working. I am writing
+code, exploring technologies, learning stuff. I glance at the TV from time to
+time, but it is not sucking the IQ out of my head! The channels I do watch are
+those where I find the History Channel, the Science Channel, Discovery Channel,
+you know, those well above 30. 
+
+I had to pick 30 as the magic number. Most network stations are below that
+number, and in my town, 31 is Home and Garden TV (HGTV) which is on a ton in my
+house!  Cheryl loves that channel! They show folks buying homes, renovating
+homes, all of which are her passions! (That is why we bought a fixer-upper in
+Kansas City, so she could explore renovating an 80 year old home). Most of my
+channels are well above that! There is intelligent life up there, move up,
+folks!
+
+    * It is easier to ask for forgiveness, than to get permission!
+
+I have worked in many organizations where the bureaucracy of the place just
+plain got in the way of progress. This is a situation that must be approached
+carefully, and with confidence in what you are about to do. If you are sure of
+a course of action that will move a situation forward, and are willing to take
+a risk (aka "push the edge") GO FOR IT! Sure you might get yelled at. But, if
+your idea has merit, and you succeed, waiting for permission might prevent the
+progress you are sure to make. You might find yourself moving forward in your
+career, in really cool ways!
+
+I have done this many times in my career, but I always made sure I had my
+"ducks in line". I knew what I wanted to accomplish, I had studied the
+situation as fully as I could, and I was stuck because my superiors were just
+too busy to pay attention to the problem I was facing. So I acted now, and
+informed them of the facts later. Some call this "initiative" and you have to
+show this to advance in your career. Sure it poses a risk, but if you are not
+willing (and able) to push on the "edge" you will not become a better person. 
+
+I am kind of amazed at my success in advising my bosses throughout my career.
+Almost without exception, my bosses trusted my advice, especially in things
+about computer technologies. All I ever really did was study new computer
+technologies , and think hard about where those technologies could help in my
+job. If I saw an opportunity to do something new, I went ahead and started
+working on that.
+
+In one amazing case, I wrote a simple program demonstrating how to apply a new
+technology to analyzing how well the B-2 bomber could do its intended job. I
+demonstrated that program to my boss, who then put me in front of a General
+Officer and that demonstration code resulted in the creation of an entire
+organization tasked with applying that idea to really asses the B-2 before it
+went into production! It was a cool moment in my life, and I still remember
+sitting in front of my boss running that first demo program! 
+
+    * YMMV (Your Mileage May Vary)
+
+This is an old saying, found on car price stickers as a disclaimer that the
+published mileage on that sticker is probably not what you will get in actual
+driving. (What? I want real numbers, not fake ones designed to make me buy that
+car!)
+
+What this saying is about in my world is simply admitting that we are all
+different people, with different goals, likes, dislikes, and skills. Part of
+succeeding in this world involves learning how to work together to solve really
+big problems. Unless we recognize, and appreciate, our differences, we cannot
+hope to work together to move this world forward to a better place. My ideas
+are just that. They are MINE. I am not trying to force you to do
+things my way! (Unfortunately, that is what I see many politicians trying to
+do!) 
+
+What I am trying to do it just get you to hear my story, and explain how things
+went for ME. If you find something inspiring in my stories, I have accomplished
+my goal. I want you to have as much fun in YOUR life, as I have had in mine. 
+
+When my number finally comes up, I will go on to the next world happy with what
+I have done. I hope you can say the same thing when it is your turn!
+
+    * Have a nice day!
+	* It is too late for that, I have to go to work!
+
+Well, I hope this is not what you really feel. My goal as a teacher has always been to lead my students toward a life where they have so much fun “working” that they can’t get enough of it. Sounds like I am working on building another generation of workaholics, and in some respects, I am! Finding a balance between work and the rest of your life is always going to be a challenge. But you will spend a considerable amount of your life “on the job”, and you better enjoy what you do. Otherwise, what is the point? I tell folks I never “chased the almighty dollar”. Instead I focus don doing my job well, learning as much about my organization as I could, and finding ways to help that organization move forward. In the end, I earned the respect of my superiors, and whenever I looked behind me, there was enough money to do the things I wanted to do. What more can you ask for? (Oh, and there is not one job I ever had that I would not gladly go back and do again!)
+
+    * Did you find everything?
+	* Do you know how long it would take to find everything?
+
+I hear this a lot in stores. And, since I am a literal sort of person, I find it amusing every time I hear it. If they want me to do an inventory for them, they will need to pay me for that!
+
+
+More to Come
+************
+
+I have more sayings (some might say I have too many - HA!) I will wait until I
+think up a few stories to go with them before I add to this list. This will get
+you started in thinking about your own sayings (and stories), I hope!
+
+
+..  vim:filetype=rst spell:

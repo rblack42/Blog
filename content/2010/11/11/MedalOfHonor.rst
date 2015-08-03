@@ -22,7 +22,7 @@ but what we owe that generation is beyond words! I had a chance to hear from a
 number of them in person during the dedication of the World War II Memorial on
 the Mall in D.C.
 
-..  image:: /images/MedalOfHonor.jpg
+..  image:: images/MedalOfHonor.jpg
     :align: center
     :width: 300
     :alt: Medal of Honor

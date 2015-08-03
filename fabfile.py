@@ -56,8 +56,15 @@ def preview():
 def sync():
     env.hosts = ['www.co-pylit.org']
     localdir = 'output/'
-    remotedir = 'www/blog'
+    remotedir = 'html/blog'
     local('rsync -arvuz %s %s@%s:%s' %(localdir,env.user,env.hosts[0],remotedir))
-    with cd('www/blog/images'):
+    with cd('html/blog/images'):
         local('chmod 755 *')
 
+def newsync():
+    env.hosts = ['166.78.143.79']
+    localdir = 'output/'
+    remotedir = 'html/blog'
+    local('rsync -arvuz %s %s@%s:%s' % (localdir, env.user, env.hosts[0], remotedir))
+    with cd('html/blog/images'):
+        local('chmod 755 *')
