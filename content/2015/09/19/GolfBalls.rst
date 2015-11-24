@@ -33,22 +33,29 @@ time. It was quite a lot of fun working in that environment, but it was a lot of
 work.
 
 Cheryl was the Controller of the museum. In that capacity, she was responsible
-for paying my bills! That included by personal charges, and bills for the
+for paying my bills! That included my personal charges, and bills for the
 equipment I needed for them to buy to complete the project. We spent a lot of
 time together, and (as luck would have it) eventually started dating. 
 
 Meeting Mike
 ************
 
+..  image:: images/CherylAndMike.jpg
+    :align: center
+    :width: 500
+    :alt: Cheryl and Mike
+
+
 Mike was visiting Cheryl when I started hanging around in her home, with her
-college student son, Scott. As I got to know him, I found out he was a WWII
-veteran, who campaigned through the Pacific Theater as an engineer, building
-runways, buildings, whatever was needed. I have met many such veterans, many in
-the Pentagon where my mother worked as I grew up. Mike would not talk much
-about the war. Many of his generation were so affected by their experiences, it
-was hard for them to talk about them, and have to remember all of that! I had
-long ago learned to respect their wishes, but since I was a veteran as well, I
-think we hit it off! We both knew what it meant to serve our country!
+college student son, Scott. As I got to know him, I found out Mike was a WWII
+veteran, who entered the Army at age 20 and campaigned through the Pacific
+Theater as a heavy vehicle driver in the 120th Ordnance Company.  I have met
+many such veterans, many in the Pentagon where my mother worked as I grew up.
+Mike would not talk much about the war. Many of his generation were so affected
+by their experiences, it was hard for them to talk about them, and have to
+remember all of that! I had long ago learned to respect their wishes, but since
+I was a veteran as well, I think we hit it off! We both knew what it meant to
+serve our country!
 
 Mike was living in a mobile home in California, near Cheryl's sister, Linda. In
 his spare time, he played golf, and worked in a local hospital. Cheryl would
