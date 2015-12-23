@@ -203,4 +203,4 @@ Now I have to go back to work! Students are waiting!
 
 Have a great day, I plan to!
 
-.   vim:filetype=rst spell:
+..   vim:filetype=rst spell:

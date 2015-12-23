@@ -1,7 +1,7 @@
 Un Chunk!!!
 ###########
 
-:Date: 2015-R2414
+:Date: 2015-11-24
 :Category: Life
 :Tags: Stories, Cancer
 
@@ -125,4 +125,4 @@ Cheryl and I wish you all the best for this holiday, and for the rest of this
 season. Remember what most of these holiday celebrations are all about, and
 enjoy your time with family and friends!
 
-.   vim:filetype=rst spell:
+..   vim:filetype=rst spell:
