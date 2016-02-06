@@ -7,6 +7,7 @@ Ka Chunk!!!
 
 ..  image:: images/TicketPunch.png
     :align: center
+    :alt: Punching your ticket
 
 Did you hear that? Last Thursday, I got my ticket punched for four more months
 at M.D. Anderson!

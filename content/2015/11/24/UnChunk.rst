@@ -7,6 +7,7 @@ Un Chunk!!!
 
 ..  image:: images/TicketPunch2.png
     :align: center
+    :alt: Unpunching your ticket"
 
 Remember that ticket I got last week? Well that trip (through life) has been
 delayed. So they un-punched the thing!
