@@ -43,10 +43,6 @@ MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
 RELATIVE_URLS = False
 
 # Exterior Services ###########################################################
-#DISQUS_SITENAME = 'roiesblog'
-#DISQUS_SHORTNAME = 'roiesblog'
-#DISQUS_DISPLAY_COUNTS = True
-
 GOOGLE_ANALYTICS = "UA-44564689-4"
 
 # Theme Settings ##############################################################
@@ -64,9 +60,12 @@ TAG_SAVE_AS = "tag-{slug}.html"
 TAG_URL = "tag-{slug}.html"
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['pelican_comment_system',]
-PELICAN_COMMENT_SYSTEM = True
+PLUGINS = ['sitemap', 'pelican_comment_system','tag_cloud', 'tipue_search',]
+PELICAN_COMMENT_SYSTEM = False
+SEARCH_URL = SITEURL + '/search.html'
+DIRECT_TEMPLATES = ['search', 'index', 'tags']
+SITEMAP = {
+    'format': 'xml',
+    'exclude': ['tag/', '/category/']
+}
 
-ISSO_ENABLED = True
-ISSO_DEFAULT_STYLE = True
-ISSO_AVATARS = True
