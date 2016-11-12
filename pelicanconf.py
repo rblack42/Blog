@@ -59,7 +59,7 @@ TAGS_SAVE_A = "tags.html"
 TAG_SAVE_AS = "tag-{slug}.html"
 TAG_URL = "tag-{slug}.html"
 
-PLUGIN_PATHS = ['plugins']
+PLUGIN_PATHS = ['/Users/rblack/_system/pelican-plugins']
 PLUGINS = ['sitemap', 'pelican_comment_system','tag_cloud', 'tipue_search',]
 PELICAN_COMMENT_SYSTEM = False
 SEARCH_URL = SITEURL + '/search.html'
