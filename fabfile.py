@@ -25,14 +25,14 @@ def clean():
         local('mkdir {deploy_path}'.format(**env))
 
 def build():
-    local('pelican -s pelicanconf.py')
+    local('pelican content/ -s pelicanconf.py')
 
 def rebuild():
     clean()
     build()
 
 def regenerate():
-    local('pelican -r -s pelicanconf.py')
+    local('pelican content/ -r -s pelicanconf.py')
 
 def serve():
     os.chdir(env.deploy_path)
