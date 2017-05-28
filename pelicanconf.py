@@ -61,8 +61,16 @@ TAGS_SAVE_A = "tags.html"
 TAG_SAVE_AS = "tag-{slug}.html"
 TAG_URL = "tag-{slug}.html"
 
-PLUGIN_PATHS = ['/Users/rblack/_system/pelican-plugins']
-PLUGINS = ['sitemap', 'pelican_comment_system','tag_cloud', 'tipue_search',]
+PLUGIN_PATHS = ['plugins']
+PLUGINS = [
+    'i18n_subsites',
+    'sitemap', 
+    'pelican_comment_system',
+    'tag_cloud', 
+    'tipue_search',
+]
+JINJA_EXTENSIONS =  ['jinja2.ext.i18n']
+
 PELICAN_COMMENT_SYSTEM = False
 SEARCH_URL = SITEURL + '/search.html'
 DIRECT_TEMPLATES = ['search', 'index', 'tags']
