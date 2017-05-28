@@ -13,7 +13,6 @@ BTW! Cancer sucks!
 
 ..  image:: Snowball1.jpg
     :align: center
-    :caption: Snowball helping me work!
 
 Snowball's Arrival
 ******************
