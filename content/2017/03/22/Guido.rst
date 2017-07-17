@@ -1,6 +1,10 @@
 Guido
 #####
 
+:Date: 2017-03-22
+:Tags: Teaching
+:Category: Life
+
 ..  _Guido: https://en.wikipedia.org/wiki/Guido_(slang)
 
 For years, I have been doing a dis-service to those folks named "Guido". When I grew up, the Mafia was where all the bad guys hung out, and it seemed that the big, muscled, gun-toting, bad guys were all named "Giudo". So when I saw a relatively famous rule all computer programmers should follow::

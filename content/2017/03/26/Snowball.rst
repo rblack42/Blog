@@ -11,7 +11,7 @@ fact that he is not here anymore.
 
 BTW! Cancer sucks!
 
-..  image:: Snowball1.jpg
+..  image:: images/Snowball.jpg
     :align: center
 
 Snowball's Arrival
@@ -231,26 +231,6 @@ So, Snowball became a house cat! We brought him inside the house and he stayed
 there most of the rest of his life (except for visits to the vet, or when we
 put him into a boarding home when we went on trips.
 
-Snowball? Have Not Seen Him!
-****************************
-
-One day, there was a knock on the door. One of the kids who stay with our
-neighbors was at the door asking about something. Cheryl was the one who
-answered the door, and as she stood there talking to the kid, the kid saw
-Snowball.
-
-"Is that Snowball?" 
-
-"Nope, we have not seen Snowball lately, this is another cat."
-
-"What is his name?"
-
-"Snowball!"
-
-Cheryl is just not that good at coming up with a fib under pressure!
-
-We dodged that bullet and Snowball was officially ours!
-
 Kitty Condo
 ***********
 
@@ -279,6 +259,9 @@ When we could not find him in the house, half of the time we would end up
 seeing him lying in the door to the small room watching us look for him
 
 If a kitty could grin, Snowball would have been doing that!
+
+..  image:: images/KittyCondo.jpg
+    :align: center
 
 King Kitty
 **********
@@ -463,7 +446,7 @@ sitting folks to take him there when they took care of him. When he was
 smaller, he would curl up in that sink and wait! We often found him there on
 cat searches!
 
-..  image:: Snowball2.jpg
+..  image:: KittyCondo.jpg
     :align: center
 
 More Medical Woes
