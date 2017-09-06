@@ -67,9 +67,9 @@ The final stop of the day was to Dr. Yu, my plastic Surgeon. He has to do the
 cutting on the flap to expose the posts, and while he is at it, he plans on
 doing another round of "fat grafting" to fill in more of the side of my face.
 We did not see Dr. Yu, but spent a few minutes going over everything with his
-PA< Brooke. (She is a native Nebraskan, so Cheryl likes visiting with er!).
+PA, Brooke. (She is a native Nebraskan, so Cheryl likes visiting with her!).
 
-Brooke wen over everything that could go wrong. Boy, if you believed any of
+Brooke went over everything that could go wrong. Boy, if you believed any of
 that would happen, you would run screaming from the place!. In the end, we were
 fine with the plan, so we left for the day!
 
@@ -88,8 +88,8 @@ open the door, and there was some poor man in there using the place. About
 then, I noticed that the TV was on, and there was a pair of shoes by the bed.
 
 Seems this guy did not check out, and the cleaning crew declared the room ready
-when it reall was not. We beat a hasty retreat from the room, and went back to
-the desk to discuss this situation. I promised not to use any colorfull
+when it really was not. We beat a hasty retreat from the room, and went back to
+the desk to discuss this situation. I promised not to use any colorful
 language when we got there. They gave us a new room as far from that one as
 possible, at the top of the building. Everything was fine after that!
 
@@ -108,7 +108,7 @@ nearby, and went back to the hotel for an early bed time.
 Day 2 - Surgery
 ***************
 
-THe surgery was scheduled for 7:30am, and we had to report at 5:30am to get
+The surgery was scheduled for 7:30am, and we had to report at 5:30am to get
 ready. MDA is oddly quite at that time of day, we hardly saw anyone except for
 a guard. When we got to the surgery floor, there was one other couple there, so
 we checked in and they took us right back to a prep room.
@@ -195,7 +195,7 @@ When she arrived, she looked at the surgical area, and declared that everything
 looked fine. I had a new plate I could feel, but little to no pain, except in
 my leg where Dr. Yu had "harvested" fat for my face.
 
-Dr. Hofsteade then started getting ready to make molds of my tqeeth, so she can
+Dr. Hofsteade then started getting ready to make molds of my teeth, so she can
 build the next dental plate, apparently the one that will be the final one.
 What is in my mouth now, goes away on my next visit.
 
