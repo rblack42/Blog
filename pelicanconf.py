@@ -8,7 +8,11 @@ BANNER_SUBTITLE = u"from Roie Black's Life"
 SITEURL = 'http://www.co-pylit.org/blog'
 
 PATH = 'content'
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico']
+EXTRA_PATH_METADATA = {
+    'exra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
 
 TIMEZONE = 'America/Chicago'
 
@@ -69,7 +73,7 @@ PLUGINS = [
     'tag_cloud', 
     'tipue_search',
 ]
-JINJA_EXTENSIONS =  ['jinja2.ext.i18n']
+JINJA_ENVOIRONMENT =  ['jinja2.ext.i18n']
 
 PELICAN_COMMENT_SYSTEM = False
 SEARCH_URL = SITEURL + '/search.html'
@@ -78,4 +82,4 @@ SITEMAP = {
     'format': 'xml',
     'exclude': ['tag/', '/category/']
 }
-
+ISSO_SITEURL = 'http://isso.co-pylit.org'

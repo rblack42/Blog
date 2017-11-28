@@ -17,8 +17,9 @@ support of this event.
 ..  image:: images/Normandy.jpg
     :align: center
     :width: 600
+    :alt: Normandy on D-Day
 
-I hope that thought crossed tour minds.
+I hope that thought crossed your minds.
 
 An Airfield in England
 **********************
@@ -84,6 +85,7 @@ they completed the checklist.
 ..  image:: images/B-26_engine_start.jpg
     :align: center
     :width: 600
+    :alt: B-26 engine start
 
 Andy radioed the control tower that he was ready to taxi, as did dozens of
 other crews. All these ships were parked in a line along the ramp, and all were
@@ -110,6 +112,7 @@ other bombers in the group.
 ..  image:: images/B26-formation.jpg
     :align: center
     :width: 600
+    :alt: B-26 formation
 
 The navigator was working out their position on the flight map on a tiny desk
 he sat by, calling out directions for the pilots.
@@ -145,6 +148,7 @@ and Evelyn.
 ..  image:: images/Evelyn_and_Andy1.jpg
     :align: center
     :width: 500
+    :alt: Evelyn and Andy
 
 Respectfully,
 

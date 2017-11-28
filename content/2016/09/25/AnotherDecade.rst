@@ -39,6 +39,7 @@ a patch of grass on previous visits. It looked like they got it flying again:
 ..  image:: images/Navion.png
     :align: center
     :width: 600
+    :alt: Navion
 
 After watching the action for a while, we headed into
 town for a little sight-seeing, people watching, and (oh yeah!) SHOPPING!
@@ -64,7 +65,7 @@ The entire place has a 1940's feel to it, and the club is no exception.
 ..  image:: images/OfficersClub.png
     :align: center
     :width: 600
-
+    :alt: O-Club
 
 There was a piano player plinking away in the club, and it was full of folks
 talking airplanes. Cheryl and I had a glass of wine, and listened for an hour
@@ -97,6 +98,7 @@ cemetery on their property.
 ..  image:: images/JohnsonCemetary.png
     :align: center
     :width: 600
+    :alt: Johnson Cemetary
 
 The ranch was Johnson's Western White House during his term as President, and
 the tour focuses on life there during that time. You get to see a lot of the
@@ -114,6 +116,7 @@ his term.
 ..  image:: images/AirForceTwo.png
     :align: center
     :width: 600
+    :alt: Air Force 2
 
 Home Again
 **********

@@ -5,6 +5,10 @@ Snakes
 :Category: Left
 :Tags: Stories
 
+..  image:: images/Texas-Garter-Snake.jpg
+    :align: center
+    :alt: Garter snake
+
 Snakes! You know, those slithery long critters that make most folks cringe with
 fear when they see one. Well, this evening, after my night class, I came home
 and was immediately told by Cheryl that there was a snake in the garage, caught
@@ -12,7 +16,7 @@ in a bug trap our bug control folks left there. I am not a fan of those traps,
 because they catch things other than bugs, like Texas Chameleons, small mice,
 and SNAKES!
 
-I went back out to the garage, and sure enough, there was a garden snake,
+I went back out to the garage, and sure enough, there was a garter snake,
 totally harmless, stuck in the trap. The bad thing was that he had his tail
 stuck in the trap, and his body was wrapped around the leg of a cabinet we
 store garden supplies in, and then his head was stuck in the same trap. There
@@ -60,14 +64,14 @@ along the bottom of the box. The knife showed me that I could pry that seam
 apart and open up the box into something flat.
 
 I did this and found out why the snake got interested in the trap in the first
-place. There were tons of bugs in there, along with a couple of chameleons,
+place. There were tons of bugs in there, along with a couple of geckos,
 long dead. It was ugly. 
 
 I could see the snakes head, and he was quite alert, his tail was alongside his
 head after wrapping around the cabinet leg. There was maybe six inches at each
 end of his two foot body stuck in the glue. The rest of him was just fine.
 
-I sprayed his tail with pam, and set off to see if I could loosen him from the
+I sprayed his tail with Pam, and set off to see if I could loosen him from the
 glue. Wonder of wonders, it worked!. He did not come loose easily, but after a
 couple of minutes of him squirming, and me prying gently with the knife, his
 tail came loose from the trap!
@@ -89,7 +93,7 @@ tongue was still sniffing around, so I knew he was not hurt much, just stuck. I
 used some shop scissors to cut away as much of the trap as I could leaving
 about a 4x2 inch rectangle with his head firmly attached to that!
 
-I seemed close to time for him to shed his skin, because there was evidence of
+It seemed close to time for him to shed his skin, because there was evidence of
 some scales loose in the glue near his body. I sprayed his body as far from his
 head as possible, and started working on getting it loose. The knife succeeded
 in getting him loose a bit, and he cooperated by squirming enough that I knew
@@ -99,7 +103,7 @@ A bit more spray closer to his head, and he knew he was coming loose. He
 struggled more, and managed to twist his head sideways a bit. He was still
 stuck, but we were getting close. A bit more spray, and he was loose!
 
-Note: A Pam coated garden snake is pretty slippery, to say the least. He took
+Note: A Pam coated garter snake is pretty slippery, to say the least. He took
 off like a shot, right back under that durned cabinet. I looked under there
 with a flashlight (it was late at night by now) and there was a second trap
 under there!

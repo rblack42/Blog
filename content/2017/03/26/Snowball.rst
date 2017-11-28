@@ -13,6 +13,7 @@ BTW! Cancer sucks!
 
 ..  image:: images/Snowball.jpg
     :align: center
+    :alt: Snowball on day bed
 
 Snowball's Arrival
 ******************
@@ -262,6 +263,7 @@ If a kitty could grin, Snowball would have been doing that!
 
 ..  image:: images/KittyCondo.jpg
     :align: center
+    :alt: Kitty Condo
 
 King Kitty
 **********
@@ -340,6 +342,7 @@ The sight of those two sitting on the cushion was funny. We started calling it
 
 ..  image:: TKB.jpg
     :align: center
+    :alt: Kitties in the window
 
 
 Cat Sitting
@@ -360,7 +363,8 @@ stay home and there was no problem with  dealing with the medicines. It was a
 much better solution since these folks could take care of anything, even haul
 them back to the vet if needed while we were away.
 
-Life with the Cats ******************
+Life with the Cats 
+******************
 
 We settled into a comfortable pattern with the cats.They would greet us when we
 came home, demand food, then ignore us until they wanted something else. You
@@ -448,6 +452,7 @@ cat searches!
 
 ..  image:: KittyCondo.jpg
     :align: center
+    :alt: Kitty Condo
 
 More Medical Woes
 *****************
@@ -507,6 +512,7 @@ Saying Goodbye
 
 ..  image:: images/Snowball3.jpg
     :align: center
+    :alt: Snowball at rest
 
 Snowball was part of our life for almost 15 years. Cats with FIV are not
 supposed to live as long, but the vets all said he was still with us because of
