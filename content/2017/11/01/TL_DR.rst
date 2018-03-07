@@ -16,10 +16,10 @@ Everyone seems to be in a hury these days. My students do not want to learn
 things by study, they want those topics injected into their systems somehow.
 The old idea that you could learn a topic by putting the book under your pillow
 while you sleep certainly will not work today. Most folks seems to read on
-their tablets, and sleeping on thaose things is sure to crack the screens!
+their tablets, and sleeping on those things is sure to crack the screens!
 
 I hate to break it to you, but instant gratification may work for some things,
-but to learn sonething, you need to dedicate some time to it.
+but to learn something, you need to dedicate some time to it.
 
 ::
 
@@ -107,11 +107,11 @@ forgot it. He did not once get me into a situation I did not recover from, in
 spite of leaving me in some bizarre configurations.
 
 I have my students explore new areas of the profession they see to enter. They
-nee to do this, and far too often, students enter my classes with little
-motivation to explore these areas. They are outside their "comfort zone", a sad
-place where things never change.
+need to do this, and far too often, students enter my classes with little
+motivation to explore these areas. They are stuck in their "comfort zone", a
+sad place where things never change.
 
-Perhaps I am defective. I do not have a comfort zone"! Instead, I am most
+Perhaps I am defective. I do not have a "comfort zone"! Instead, I am most
 comfortable out of that zone, in areas where I an learning something new. 
 
 Slowly Pushing the Edge
@@ -135,11 +135,10 @@ My plan is to keep pushing my students, to get them out of the "comfort zone"
 they enter my classes stuck in. They will see new ways of doing their work, and
 learn new tools, as they learn a new topic. 
 
-However, instead of a few big steps into
-that new world, I plan on making hem take many more small steps, and working
-harder to explain why those steps are needed. In the end, I hope they see the
-value in approaching new topics with an open mind, and not be in such a hurry
-to get over this learning stuff. 
+However, instead of a few big steps into that new world, I plan on making hem
+take many more small steps, and working harder to explain why those steps are
+needed. In the end, I hope they see the value in approaching new topics with an
+open mind, and not be in such a hurry to get over this learning stuff. 
 
 Maybe what I really want to teach my students is this: SH;LM
 
@@ -147,4 +146,4 @@ Maybe what I really want to teach my students is this: SH;LM
 
     Studied hard; Learned much!
 
-
+..  vim:ft=rst spell:
