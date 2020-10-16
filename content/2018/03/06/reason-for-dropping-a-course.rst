@@ -36,7 +36,7 @@ It often happens after the first test in my class. More than likely, this
 student did not do well. The solution is not what I experienced (back before
 the Earth had cooled), which was to study harder, or seek help figuring out why
 this course was hard for me. The solution these days is even simpler, don't
-take that cours. (Perhaps don;t take a course from that instructor!)
+take that course. (Perhaps don't take a course from that instructor!)
 
 The stated goal: "To maintain a higher GPA" tells me that student really thinks
 a high GPA is what matters most. That will certainly mean a good job in the
