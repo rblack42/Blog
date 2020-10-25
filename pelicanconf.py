@@ -68,12 +68,12 @@ TAG_URL = "tag-{slug}.html"
 PLUGIN_PATHS = ['plugins']
 PLUGINS = [
     'i18n_subsites',
-    'sitemap', 
+    'sitemap',
     'pelican_comment_system',
-    'tag_cloud', 
+    'tag_cloud',
     'tipue_search',
 ]
-JINJA_ENVOIRONMENT =  ['jinja2.ext.i18n']
+JINJA_ENVIRONMENT =  {"extensions" : ['jinja2.ext.i18n'] }
 
 PELICAN_COMMENT_SYSTEM = False
 SEARCH_URL = SITEURL + '/search.html'

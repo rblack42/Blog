@@ -7,6 +7,7 @@ Forgetting How To Program
 
 ..  image:: images/sullenberger1.png
     :align: center
+    :alt: Capt. Sullenberger Quote
 
 I read `this article
 <https://www.linkedin.com/pulse/computers-learn-fly-well-enough-before-pilots-forget-how-graves>`_
@@ -51,7 +52,7 @@ you cannot do with a real book
     does not have the same feeling as doing that with a real book. Oh well!
 
 It is not just textbooks that are affected by tablets. WHen was the last time
-you went to the library to do some research. 
+you went to the library to do some research.
 
 Why do that when you can Google?
 
@@ -77,7 +78,7 @@ skill involves testing the student to make sure they are learning those skills.
 And that part of the process is in jeopardy in this tablet-driven educational
 system.
 
-How do we certify that the student actually has a skill. 
+How do we certify that the student actually has a skill.
 
 Well of course, we give them a multiple-choice quiz and automatically score
 that quiz. If they pass enough of those quizzes, we certify than as proficient
@@ -102,7 +103,7 @@ I tell my students this:
 ::
 
     You will never sit through a job interview and be asked multiple-choice
-    questions. You will get that job by proving that you can do something. 
+    questions. You will get that job by proving that you can do something.
 
 How do we prove that the student has a skill?
 
@@ -118,13 +119,13 @@ ride in an airplane where the pilot read THAT book!
 
 Really learning a skill takes time, and learning how to learn takes time as
 well. You have to practice the skill, multiple times, until it becomes part of
-your nature. 
+your nature.
 
 Programming is like that. Certainly you need to learn the syntax rules, like
 learning how to structure sentences in English. If you do not do that right,
 the meaning of the sentence is gibberish. Same thing in programming. If you put
 together a piece of program code that does not follow the rules, the computer
-cannot make sense of that program. 
+cannot make sense of that program.
 
 Fortunately, there are tools to check your syntax, And you now what? I can give
 you a multiple-choice quiz to make sure you know the rules.
@@ -134,7 +135,7 @@ But that is far from enough!
 Today, many programming environments will help you write proper syntax in your
 code, You can even copy-and-paste snippets of code into your program that
 someone else wrote (sounds like plagiarism to me). In the end, the tools will
-be happy, and your program will run. 
+be happy, and your program will run.
 
 But, do you know what will happen when the program runs. Better yet, do you
 know if what you just created will actually solve some problem the program
@@ -179,10 +180,10 @@ to "fly".
      General Stan Czyzak, my first flight instructor, was a master at this. He
      put me in situations (I had my eyes closed as he did this) and asked me to
      recover over and over. In the end, I was pretty certain I could handle
-     just about anything I might encounter in flying.  
-     
+     just about anything I might encounter in flying.
+
      Except flying upside down.
-     
+
      When I realized that, I took a course in aerobatic flying, years later.
 
 Just learning one small part of the trade will never do. You need to build up a
@@ -200,7 +201,7 @@ I have an issue with automated tools that help you do something. An "Integrated
 Development" is a tool used by programmers to put together a program. It helps
 them get the syntax right, and look up the right way to call certain part of
 their code into life. It will also help them figure out why the program does
-not run right. 
+not run right.
 
 But it does not train them how to organize a project, how to make sure they are
 solving the right problem, and how to make sure the program actually works as

@@ -3,7 +3,7 @@ Reason for Dropping a Course
 
 :Date: 2018-03-06
 :Category: Education
-:Tags: Teaching, LEarning
+:Tags: Teaching, Learning
 
 ..  vim:ft=rst spell:
 
@@ -13,7 +13,7 @@ Reason for Dropping a Course
     withdrawal" a bit. This morning, an email triggered this post!
 
 I have been teaching at Austin Community College for over 15 years now. Every
-semester I meet a new crop of students "eager" to learn something new. 
+semester I meet a new crop of students "eager" to learn something new.
 
 At least, that is my dream!
 
