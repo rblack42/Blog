@@ -10,7 +10,7 @@ __pycache__
 *~
 
 # virtualenv
-_venv
+.direnv
 
 # Pelican
 cache/
