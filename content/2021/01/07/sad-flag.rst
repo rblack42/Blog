@@ -6,6 +6,7 @@ Sad Flag
 :Tags: Veterans, Stories
 
 ..	image::	images/wall-flag.png
+    :alt: US Flag on wall mount
 	:align: center
 	:width: 300
 

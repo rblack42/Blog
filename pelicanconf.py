@@ -6,7 +6,16 @@ PATH = 'content'
 TIMEZONE = 'America/Chicago'
 DEFAULT_LANG = u'en'
 
-PLUGINS = None
+#PLUGINS = ['search', 'tag-could'] 
+SEARCH_MODE = "output"
+
+TAG_CLOUD_STEPS = 4
+TAG_CLOUD_MAX_ITEMS = 100
+TAG_CLOUD_SORTING = "random"
+TAG_CLOUD_BADGE = True
+
+PELICAN_COMMENT_SYSTEM = True
+PELICAN_COMMENT_SYSTEM_IDENTICON_DATA = ('author',)
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

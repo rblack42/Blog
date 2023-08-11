@@ -1,7 +1,7 @@
 Memorial Day - 2022
 ###################
 
-:Date: 2021-01-07
+:Date: 2022-05-30
 :Category: Life
 :Tags: Veterans, Stories
 
@@ -58,9 +58,10 @@ stop. Every one on board was alive, but they were far from safe. The air around
 them was full of German Me-109 fighters and British Spitfires engaging in
 fierce dog fights. They knew German patrols probably would be looking for them.
 
-..	image::	images/Crash_Landing.jpg
+..	image::	images/Crash_Landing.JPG
+    :alt: B-26 Crash landing
 	:align: center
-	:width: 300
+	:width: 500
 
 
 As the crew climbed out of the plane, they were spotted by members of the
@@ -78,7 +79,7 @@ got ready for more missions.
 
 The alarm went off at 4am...
 
-All told, andy flew 186 hours of combat missions in two years. I have his
+All told, Andy flew 186 hours of combat missions in two years. I have his
 records from those flights but the targets are not mentioned. Andy was awarded
 10 Air Medals for his heroic flying in harm's way.
 
@@ -104,7 +105,8 @@ telling their own war stories, Andy told me he was 103!
 
 
 ..	image::	images/AndyAndMe.png
+    :alt: Any and Me
 	:align: center
-	:width: 300
+	:width: 500
 
 God bless all those brave soldiers! Rest in Peace, Andy!

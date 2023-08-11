@@ -4,7 +4,7 @@ SSH_PORT   = 5224
 
 .PHONY: build
 build:
-	pelican content/ -s pelicanconf.py
+	pelican content
 
 .PHONY: venv
 venv:
